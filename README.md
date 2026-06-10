@@ -1,4 +1,4 @@
-cank from spring.io and added these dependencies: i. Lombok: To reduce boilerplate code ii. MongoDB: A NoSQL database use for storing data in Documents format or JSON/BSON iii. Validation: To validate the schema of the database if some critera are not filled in iv. Spring Web:
+1. from spring.io and added these dependencies: i. Lombok: To reduce boilerplate code ii. MongoDB: A NoSQL database use for storing data in Documents format or JSON/BSON iii. Validation: To validate the schema of the database if some critera are not filled in iv. Spring Web:
 
 2. Created The packages
      i. Entity/Model: This is structure of database/the blueprint 
